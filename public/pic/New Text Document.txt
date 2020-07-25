@@ -1,0 +1,1 @@
+convert all image in 720x600 reso
